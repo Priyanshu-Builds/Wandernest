@@ -207,8 +207,6 @@ npm start
 ---
 
 ## 🧠 Use Case Diagram
-
-![Use Case Diagram](your-use-case-image-path.png) <!-- Replace with screenshot -->
 <img width="1379" height="1694" alt="Use-Case" src="https://github.com/user-attachments/assets/656a79c0-4ca1-42eb-9614-c1bc531c5b0d" />
 
 ---
