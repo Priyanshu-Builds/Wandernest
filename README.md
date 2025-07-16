@@ -223,5 +223,3 @@ npm start
 ---
 
 > ⭐ If you like this project or found it useful, please consider giving it a star on GitHub!
-
-```
