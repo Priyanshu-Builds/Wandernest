@@ -1,4 +1,4 @@
-# 🏕️ WanderNest – A Travel Accommodation Platform
+# 🏕️ WanderNest – A Travel Accommodation Website
 
 **WanderNest** is an innovative full-stack platform that connects travelers with personalized lodging experiences globally. The system enables users to book stays, list accommodations, offer local experiences, and engage in a cultural exchange community — all within a secure and scalable application.
 <img width="522" height="550" alt="Home-Page" src="https://github.com/user-attachments/assets/39240518-e7a5-4b03-8cbf-1955a2f78dd2" />
